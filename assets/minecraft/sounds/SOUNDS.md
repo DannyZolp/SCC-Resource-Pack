@@ -98,8 +98,6 @@ ambient/nether/basalt_deltas/twist2.ogg
 
 ambient/nether/basalt_deltas/twist3.ogg
 
-9
-
 ambient/nether/basalt_deltas/twist4.ogg
 
 ambient/nether/crimson_forest/addition1.ogg
@@ -182,7 +180,7 @@ ambient/nether/nether_wastes/mood4.ogg
 
 ambient/nether/nether_wastes/mood5.ogg
 
-ambient/nether/soulsand_valley/ambience.ogg 45
+ambient/nether/soulsand_valley/ambience.ogg
 
 ambient/nether/soulsand_valley/mood1.ogg
 
@@ -246,7 +244,7 @@ ambient/nether/warped_forest/addition5.ogg
 
 ambient/nether/warped_forest/addition6.ogg
 
-ambient/nether/warped_forest/ambience.ogg 20
+ambient/nether/warped_forest/ambience.ogg
 
 ambient/nether/warped_forest/creak1.ogg
 
