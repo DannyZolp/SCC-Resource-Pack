@@ -1,4 +1,5 @@
 # SCC-Resource-Pack
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8ad4b2b-3ff4-4728-b5d0-85280bc1b231/deploy-status)](https://app.netlify.com/sites/fervent-raman-3573ab/deploys)
 
 ## How to setup environment
 
